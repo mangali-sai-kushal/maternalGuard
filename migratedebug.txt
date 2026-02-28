@@ -1,0 +1,5 @@
+
+> maternal-guard-life-link@1.0.0 migrate
+> node migrations/run.js
+
+❌ Migration failed: getaddrinfo ENOTFOUND db.xvfuupuurekiekvbhbqd.supabase.co

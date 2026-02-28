@@ -1,0 +1,5 @@
+ERROR: getaddrinfo ENOTFOUND db.xvfuupuurekiekvbhbqd.supabase.co
+Error: getaddrinfo ENOTFOUND db.xvfuupuurekiekvbhbqd.supabase.co
+    at D:\hackathon\maternal-guard-backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\hackathon\maternal-guard-backend\test_db.js:6:21
